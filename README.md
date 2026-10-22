@@ -1,18 +1,3 @@
-<!--
-**gv-gitportfolio/gv-gitportfolio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ## Hi there 👋
 
 <!--
@@ -29,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
 <h1 align="center">GV</h1>
 
 <h3 align="center">📊 Data Analyst &nbsp;|&nbsp; 🤖 Machine Learning &nbsp;|&nbsp; 💬 NLP</h3>
@@ -48,6 +35,7 @@ Here are some ideas to get you started:
 ## 💼 What I Bring
 
 - 📈 **5+ years** in data analytics, BI and applied machine learning
+- 🐍 Python and SQL for data extraction, analysis, automation and modeling
 - 🧹 End-to-end data work: ETL, cleaning, validation, analysis and storytelling
 - 📊 Dashboards and KPIs that stakeholders actually use
 - 🧠 Predictive modeling with AI, ML, deep learning and NLP/LLMs
