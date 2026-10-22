@@ -83,7 +83,7 @@ Here are some ideas to get you started:
 
 | Project | Impact |
 |---|---|
-| 🔐 [**Federated Learning for IoT Intrusion Detection**](https://github.com/gv-gitportfolio/privacy-preserving-fl-iot-ids) | Privacy-preserving deep learning model with **97.3% accuracy** across 7 datasets ~13M records. Published in ACM TOSEM. *(Code not public)* |
+| 🔐 [**Federated Learning for IoT Intrusion Detection**](https://github.com/gv-gitportfolio/privacy-preserving-fl-iot-ids) | Privacy-preserving deep learning model with **97.3% accuracy** across 7 datasets **~13M** records. Published in ACM TOSEM. *(Code not public)* |
 | 📚 [**Amazon Book Reviews Sentiment Analysis**](https://github.com/gv-gitportfolio/amazon-book-reviews-sentiment-analysis) | NLP pipeline analyzing **1.3M+ reviews** to uncover sentiment trends. |
 
 ---
