@@ -39,6 +39,10 @@ Here are some ideas to get you started:
   <a href="https://scholar.google.com/citations?user=YOUR-ID"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"/></a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gv-gitportfolio&label=Profile%20Views&color=blue&style=flat-square" alt="Profile views"/>
+</p>
+
 ---
 
 ## 💼 What I Bring
