@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 - 📈 **5+ years** in data analytics, BI and applied machine learning
 - 🐍 Python and SQL for data extraction, analysis, automation and modeling
-- 🧹 End-to-end data work: ETL, cleaning, validation, analysis and storytelling
+- 🧹 End-to-end data work on large datasets: ETL, cleaning, validation, analysis and storytelling
 - 📊 Dashboards and KPIs that stakeholders actually use
 - 🧠 Predictive modeling with AI, ML, deep learning and NLP/LLMs
 - 📚 Peer-reviewed research, including **ACM TOSEM**
@@ -83,7 +83,7 @@ Here are some ideas to get you started:
 
 | Project | Impact |
 |---|---|
-| 🔐 [**Federated Learning for IoT Intrusion Detection**](https://github.com/gv-gitportfolio/privacy-preserving-fl-iot-ids) | Privacy-preserving deep learning model with **97.3% accuracy** across 7 datasets. Published in ACM TOSEM. *(Code not public)* |
+| 🔐 [**Federated Learning for IoT Intrusion Detection**](https://github.com/gv-gitportfolio/privacy-preserving-fl-iot-ids) | Privacy-preserving deep learning model with **97.3% accuracy** across 7 datasets ~13M records. Published in ACM TOSEM. *(Code not public)* |
 | 📚 [**Amazon Book Reviews Sentiment Analysis**](https://github.com/gv-gitportfolio/amazon-book-reviews-sentiment-analysis) | NLP pipeline analyzing **1.3M+ reviews** to uncover sentiment trends. |
 
 ---
