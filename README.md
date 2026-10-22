@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 - 🧹 End-to-end data work on large datasets: ETL, cleaning, validation, analysis and storytelling
 - 📊 Dashboards and KPIs that stakeholders actually use
 - 🧠 Predictive modeling with AI, ML, deep learning and NLP/LLMs
-- 📚 Peer-reviewed research, including ACM TOSEM.
+- 📚 Peer-reviewed research, including ACM TOSEM: Q1 Journal.
 
 ---
 
