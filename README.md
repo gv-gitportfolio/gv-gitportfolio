@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Gitika Vyas</h1>
+<h1 align="center">GV</h1>
 
 <h3 align="center">📊 Data Analyst &nbsp;|&nbsp; 🤖 Machine Learning &nbsp;|&nbsp; 💬 NLP</h3>
 
