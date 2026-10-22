@@ -91,7 +91,6 @@ Here are some ideas to get you started:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gv-gitportfolio&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats"/>
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gv-gitportfolio&layout=compact&theme=radical&hide_border=true" alt="Top languages"/>
 </p>
 
